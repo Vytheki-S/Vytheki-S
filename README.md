@@ -1,6 +1,5 @@
 # Hi there, I'm Vytheki Sathiyananthan! 👋
 
-![Banner Image](https://via.placeholder.com/1200x300.png?text=Hello+I'm+Vytheki+|+IT+Student+|+Java+Developer)
 
 ## About Me 🚀
 
