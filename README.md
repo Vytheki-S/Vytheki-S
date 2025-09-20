@@ -10,7 +10,7 @@ I enjoy building full-stack applications, tackling complex problems, and learnin
 - 🌱 Currently learning: **Docker, DevOps tools, and React**  
 - 🔭 Working on: **Event Management System (Java, JSP/Servlets, MySQL)**  
 - 🌍 Languages: **Java, C, JavaScript, SQL, HTML, CSS** • Human: English & Tamil  
-- 📫 How to reach me: **sivamsan@example.com**  
+- 📫 How to reach me: **vythekiesathya@gmail.com**  
 - ⚡ Fun fact: I love experimenting with Linux commands and scripting!
 
 ---
