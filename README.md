@@ -47,12 +47,7 @@ When I’m not coding or learning, I enjoy:
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SivamsanS&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivamsanS&layout=compact&theme=radical" width="48%" />
-</p>
 
 ---
 
