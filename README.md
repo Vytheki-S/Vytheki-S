@@ -1,40 +1,59 @@
-# Hi there, I'm Vytheki Sathiyananthan! 👋
+<h1 align="center">Hi there, I'm Vytheki 👋</h1>
 
-
-## About Me 🚀
-
-I'm a passionate **IT undergraduate student (2nd Year, 2nd Semester @ SLIIT Northni)** specializing in **Java, Web Development, and * Android Studio*.  
-I enjoy building full-stack applications, tackling complex problems, and learning new technologies to strengthen my skills.
-
-- 🌱 Currently learning: **Docker, DevOps tools, and React**  
-- 🔭 Working on: **Event Management System (Java, JSP/Servlets, MySQL)**  
-- 🌍 Languages: **Java, C, JavaScript, SQL, HTML, CSS** • Human: English & Tamil  
-- 📫 How to reach me: **vythekiesathya@gmail.com**  
-- ⚡ Fun fact: I love experimenting with Linux commands and scripting!
+🎓 **Undergraduate @ SLIIT North Uni** | 💻 **2nd Year, 1st Semester**  
+🌐 **Web Dev Learner (React & Django)** 
 
 ---
 
-## My Skills 🧠
+### 🧠 About Me
+I'm a second-year undergraduate passionate about technology, diving deep into **full-stack web development** with a strong focus on the**React**, **MERN stack** and **Django**.
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+While I have a curiosity for **Cyber Security**, my main goal right now is to build **real-world, dynamic web applications** that sharpen both my **frontend** and **backend** skills.
 
 ---
 
-## Featured Projects 💻
+### ⚙️ Tech Stack
+**Languages:** C, C++, Java, HTML, CSS, JavaScript, PHP, MySQL ,Python
+**Frameworks:** React.js, Express.js, Node.js, Django  
+**Databases:** MongoDB, MySQL  
+**Tools:** Git, GitHub, VS Code, Postman, Figma (basics)
 
-
-
-
-## Get in Touch 📬 
-- 📧 **vythekiedsathya@gmail.com**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,django,php,mysql,git,github,figma" />
+</p>
 
 ---
 
-⭐️ From [Vytheki-S](https://github.com/Vytheki-S)
+### 📚 Currently Learning
+- 🔹 Git & GitHub (Version Control)
+- 🔹 React.js (Frontend - MERN Stack)
+- 🔹 Django (Backend - Python Framework)
+- 🔹 Full-Stack Web Development
+- 🔹 Building real-world, dynamic web apps
+
+---
+
+### 🌴 Outside of Code
+When I’m not coding or learning, I enjoy:
+- 📘 Reading to grow personally & professionally
+- 🌐 Exploring new tech topics out of curiosity
+- 💭 Planning future projects and reflecting
+
+---
+
+### 📫 Let's Connect
+- [💼 LinkedIn](Vythekie Sathya)
+- ✉️ vythekiesathya@gmil.com
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SivamsanS&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivamsanS&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+> _"The expert in anything was once a beginner."_ 💡
