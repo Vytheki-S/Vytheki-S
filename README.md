@@ -9,7 +9,6 @@
 I'm a second-year undergraduate passionate about technology, diving deep into **full-stack web development** with a strong focus on the**React**, **MERN stack** and **Django**.
 
 While I have a curiosity for **Cyber Security**, my main goal right now is to build **real-world, dynamic web applications** that sharpen both my **frontend** and **backend** skills.
-
 ---
 
 ### ⚙️ Tech Stack
