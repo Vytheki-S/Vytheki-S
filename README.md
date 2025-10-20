@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vytheki </h1>
+<h1 align="center">Hi there, I'm Vytheki Sathiyananthan </h1>
 
  **Undergraduate @ SLIIT North Uni** | **2nd Year, 1st Semester**  
  **Web Dev Learner (React & Django)** 
