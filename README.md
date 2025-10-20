@@ -35,7 +35,7 @@ When I’m not coding or learning, I enjoy:
 -  Planning future projects and reflecting
 
 ---
-### 📫 Let's Connect
+###  Let's Connect
 - [💼 LinkedIn](Vythekie Sathya)
 - ✉️ vythekiesathya@gmil.com
 ---
