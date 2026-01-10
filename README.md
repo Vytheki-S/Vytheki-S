@@ -1,91 +1,74 @@
 <h1 align="center">Hi there, I'm Vytheki Sathiyananthan 👋</h1>
-
-**Undergraduate @ SLIIT North Uni** | **2nd Year, 1st Semester**  
-**Full-Stack Web & Mobile App Enthusiast** (React • Django • MERN • Kotlin)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+Web;MERN+%E2%80%A2+Django+%E2%80%A2+Kotlin;Passionate+Undergrad+@+SLIIT+North+Uni" alt="Typing SVG" />
+</p>
+<p align="center">
+  <b>Undergraduate @ SLIIT North Uni</b> | <b>2nd Year</b><br/>
+  Building clean, scalable apps with ❤️ for code quality
+</p>
 ---
-
 ### About Me
-I'm a passionate second-year undergraduate at SLIIT North Uni with a strong drive for technology and problem-solving. I love building full-stack web applications using the MERN stack and Django, while also exploring mobile app development with Kotlin and data science with Python & R. My goal is to create impactful, real-world solutions through clean code and meaningful projects.
-
-### ⚙️ Tech Stack
-
-**Languages:**  
-C, C++, Java, HTML, CSS, JavaScript, TypeScript, Python, PHP, Kotlin, MySQL, R
-
-**Frameworks & Libraries:**  
-React.js, Next.js (learning), Express.js, Node.js, Django, JWT (Authentication)
-
-**Mobile Development:**  
-Kotlin (Android basics)
-
-**Databases:**  
-MongoDB, MySQL
-
-**Cloud & DevOps:**  
-AWS (basics), Cloud Storage (Firebase/Google Cloud), Git, GitHub
-
-**Tools & Others:**  
-VS Code, Postman, Figma (basics), Canva (basics), RStudio, Postman
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,django,php,mysql,kotlin,r,aws,firebase,git,github,postman,figma,canva,vscode" />
-</p>
-
----
-
-### Currently Learning & Building
-- 🔹 Advanced React.js & TypeScript (MERN Stack)
-- 🔹 Django REST Framework + JWT Authentication
-- 🔹 Kotlin for Android Mobile Apps
-- 🔹 AWS Cloud Basics & Deployment
-- 🔹 Data Analysis with R & Python
-- 🔹 Building full-stack + mobile projects from scratch
-
----
-
-### Outside of Code
-When I’m not coding, you’ll find me:
-- 📚 Reading tech blogs & personal development books
-- 🚀 Exploring new frameworks and tools
-- 💡 Planning my next big project
-- ☕ Reflecting and enjoying a good cup of tea
-
----
-
-### Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/vythekie-sathya)  
-- ✉️ vythekiesathya@gmail.com
-
-> _"The expert in anything was once a beginner."_
-
----
-
-### 📊 GitHub Stats
+Passionate second-year undergrad who loves turning ideas into real-world applications.
+Focused on **full-stack web** (MERN + Django) and **Android mobile development** with Kotlin.
+Goal: Create useful, impactful solutions through clean code and continuous learning.
+### 🌐 Connect With Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vytheki-S&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://www.linkedin.com/in/vythekie-sathya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vythekiesathya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+> *"The expert in anything was once a beginner."*
+---
+### 🛠 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,django,php,mysql,kotlin,r,aws,firebase,git,github,postman,figma,canva,vscode" alt="Tech Stack" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Vytheki-S&theme=merko&hide_border=false" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
+</p>
+---
+### 🌱 Currently Learning & Building
+- Advanced React + TypeScript (full MERN stack)
+- Django REST Framework + JWT Authentication
+- Android development with Kotlin
+- AWS basics & simple deployments
+- Data analysis (Python + R)
+- Full-stack & mobile projects from scratch
+---
+### 🌿 When I'm Not Coding
+- Reading tech blogs & personal development books
+- Exploring new frameworks & tools
+- Planning my next big project idea
+- Enjoying a good cup of tea ☕
+---
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Vytheki-S&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Vytheki-S&layout=compact&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=8" alt="Top Languages" width="40%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vytheki-S&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Vytheki-S&theme=radical&hide_border=true&background=30,e96443,904e95&fire=fff&stroke=000000" alt="GitHub Streak" />
 </p>
-
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vytheki-S&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=Vytheki-S&theme=radical&no-frame=true&margin-w=15&row=1&column=6&rank=0" alt="GitHub Trophies" />
 </p>
-
-### 🔝 Top Contributed Repos
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Vytheki-S&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
-</p>
-
+<!-- Mirror alternatives if needed: 
+     https://github-profile-trophy-liard-delta.vercel.app/... 
+     https://github-profile-trophy-fork-two.vercel.app/...
+     Or deploy your own (recommended for no rate limits): https://github.com/ryo-ma/github-profile-trophy -->
 ---
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Vytheki-S&icon=0&color=0" alt="Profile Views"/>
+  <img src="https://visitcount.itsvg.in/api?id=Vytheki-S&icon=5&color=6" alt="Profile Views" />
 </p>
-
-<!-- Proudly created with GPRM[](https://gprm.itsvg.in) -->
+<p align="center">
+  Made with ❤️ & lots of debugging sessions • Keep building! 🚀
+</p>
